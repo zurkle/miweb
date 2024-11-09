@@ -1,0 +1,16 @@
+/* Este es el archivo CSS para estilizar la página */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.contenedor {
+    border: 1px solid black;
+    padding: 10px;
+}
